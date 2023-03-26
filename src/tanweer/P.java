@@ -26,7 +26,7 @@ class P {
         System.out.println(sb);
         
        if(sb.toString().equals(pal))
-       System.out.println(pal+"===>"+"palindrom");
+       System.out.println(pal+"===>"+" is the palindrom");
             
         }
   
