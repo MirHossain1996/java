@@ -16,6 +16,9 @@ class P {
         int k=0;
         int l=sb.length()-1;
         while(k<l){
+            System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
+              System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
+              System.out.println("hhhhhhhhhhhhhhhhhhhhhhhh");
             char front=sb.charAt(k);
             char back=sb.charAt(l);
             sb.setCharAt(k,back);
